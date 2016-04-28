@@ -1,0 +1,16 @@
+103
+Jason Johnson
+40.0
+40.0
+104
+Bob Barker
+35.0
+10.0
+105
+Kim Jones
+35.0
+10.0
+106
+Linda Berger
+30.0
+10.0
